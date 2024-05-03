@@ -1,3 +1,13 @@
+/*
+
+ - adicionar a biblioteca padrão de entrada e saída
+ - realizar a inicialização para a limpeza de memória
+ - receber os valores dois valores inteiros 
+ - receber o valor da operação escolhida
+ - executar as operações de acordo com o valor fornecido
+ - mostrar o resultado das operações em diferentes formatos
+
+*/
 #include <stdio.h>
 
 int main(){
